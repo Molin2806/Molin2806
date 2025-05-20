@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy [Valeria]</h1>
+<h1 align="center">¡Hola! 👋 mi nombre es [Valeria]</h1>
 <h3 align="center">Desarrollador Frontend apasionado por crear experiencias web atractivas, accesibles y funcionales.</h3>
 
 ---
